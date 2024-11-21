@@ -14,8 +14,8 @@ def get_popular_endpoints(logs, top_n=5) :
     return list(zip(series1.index,series1))
 
 #def get_error_rate(logs) :
-#    count=len(log['status_code'].str.startswith('4'|'5'))
-#    total= len(log['status_code']
+#    count=len(logs['status_code'].str.startswith('4'|'5'))
+#    total= len(logs['status_code']
 #    return float((count/total)*100)
 
 def generate_report(filename): 
