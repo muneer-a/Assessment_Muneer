@@ -1,5 +1,6 @@
 '''
-Given a number, return the difference between the maximum and minimum numbers that can be formed when the digits are rearranged.
+Given a number, return the difference between the maximum and minimum numbers 
+that can be formed when the digits are rearranged.
 '''
 
 def rearranged_difference(num):
