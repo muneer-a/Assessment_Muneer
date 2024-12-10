@@ -12,3 +12,6 @@
 - [Sum of the Items in a List](https://edabit.com/challenge/pyMScvcjbxG7rMcNT) - [Solution](exercises/medium/sum_of_list_of_list_using_recursion.py)
 - [Sum of Missing Numbers](https://edabit.com/challenge/Aj377wZtxWya7gjK9) - [Solution](exercises/medium/sum_of_missing_numbers.py)
 - [Three Lists!](https://edabit.com/challenge/GQjKJtG6dqeyBSCqX) - [Solution](exercises/medium/three_lists.py)
+- [Making a Countdown](https://edabit.com/challenge/7QvH8PJgQ5x4qNGLh) - [Solution](exercises/medium/making_a_countdown.py)
+- [Oddish vs. Evenish](https://edabit.com/challenge/H3t4MkT9wGdL9P6Y3) - [Solution](exercises\medium\oddish_evenish.py)
+- [Squares and Cubes](https://edabit.com/challenge/NMHFTCMqW6j8sXkNd) - [Solution](exercises\medium\squares_and_cubes.py)
