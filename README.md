@@ -1,7 +1,7 @@
 # Muneer Training Repository
 
 ## Overview
-
+This repository is used to update my training related assessments, exercises etc.
 
 ## Exercises
 ### Medium Problems
