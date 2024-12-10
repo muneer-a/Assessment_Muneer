@@ -5,4 +5,4 @@
 
 ## Exercises
 ### Medium Problems
-- [LengthOfNumber](https://edabit.com/challenge/2zKetgAJp4WRFXiDT) - [Solution](exercises\medium\length.py)
+- [LengthOfNumber](https://edabit.com/challenge/2zKetgAJp4WRFXiDT) - [Solution](exercises/medium/length.py)
